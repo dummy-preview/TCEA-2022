@@ -670,6 +670,10 @@ li.menu-item.current-menu-item {
     width: 100%;
 }
 
+.home__logo {
+    padding-bottom: 10px;
+}
+
 .home__logo img {
     width: 339px;
 }
@@ -687,6 +691,7 @@ li.menu-item.current-menu-item {
     line-height: 70px;
     color: #FFFFFF;
     width: 467px;
+    padding-bottom: 10px;
 }
 
 .home__content {
@@ -7685,6 +7690,9 @@ input[type=file] {
     .road__logo::before {
         width: 115px;
         height: 4px;
+    }
+    .home__logo {
+        padding-bottom: 0px;
     }
 }
 
