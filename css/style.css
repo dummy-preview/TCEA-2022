@@ -178,12 +178,12 @@ img {
 }
 
 ::selection {
-    background: #F36F21;
+    background: #19555F;
     color: #fff
 }
 
 ::-moz-selection {
-    background: #F36F21;
+    background: #19555F;
     color: #fff
 }
 
@@ -198,7 +198,7 @@ img {
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #00529D
+    background: #19555F;
 }
 
 p {
