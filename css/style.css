@@ -1377,6 +1377,10 @@ li.menu-item.current-menu-item {
     padding-bottom: 180px;
 }
 
+.color-red {
+    color: #D72027;
+}
+
 .mekanisme__obj1 {
     position: absolute;
     left: 0;
